@@ -25,5 +25,3 @@ int main()
     SHOWCHAR(arr, SIZE);
 #endif // CHAR
 }
-add to offfice
-add to offfice
