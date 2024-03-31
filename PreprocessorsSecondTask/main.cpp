@@ -25,5 +25,4 @@ int main()
     SHOWCHAR(arr, SIZE);
 #endif // CHAR
 }
-ddfdmf
-123
+add to offfice
