@@ -25,3 +25,4 @@ int main()
     SHOWCHAR(arr, SIZE);
 #endif // CHAR
 }
+ddfdmf
